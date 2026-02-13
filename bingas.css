@@ -1,0 +1,11 @@
+* {
+    background-color: #000;
+}
+
+.h1 {
+    font-family: cursive;
+    color: white;
+    font-weight: 1000;
+    font-size: 70px;
+    padding-top: 10px;
+}
